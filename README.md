@@ -22,9 +22,11 @@ https://drive.google.com/file/d/1M-Tm1x1vC1K-K0r43vjQxEwMNYWTfFn4/view?usp=share
 https://drive.google.com/file/d/1fb_ETbUKCB5lyTsK_d6jbLiWkMI1qaNb/view?usp=share_link LINK PARA DOWNLOAD DA CALCULADORA
 
 ### COMO INSTALAR
-- 1) Acesse o link
-  2) Acesse o arquivo do link
-  3) Clique em instalar
+- 1° Acesse o link
+  
+- 2° Acesse o arquivo do link
+
+- 3° Clique em instalar
 Após isso so testar
 
 ### PRÉ REQUISITOS
