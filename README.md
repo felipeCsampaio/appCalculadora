@@ -4,7 +4,7 @@
 - Esse projeto foi pensando para treinar os comandos de mobile, sendo ultilizado com a turma do técnico do CSL.
 
 ### LAYOUT DAS TELAS
-https://drive.google.com/file/d/1M-Tm1x1vC1K-K0r43vjQxEwMNYWTfFn4/view?usp=share_link TELA DA CALCULADORA
+![Tela 1](tela_inicial.png)
 
 ### TECNOLOGIAS ULTILIZADAS
 - Android Studios
