@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1M-Tm1x1vC1K-K0r43vjQxEwMNYWTfFn4/view?usp=share
 - Android Studios
 
 ### APK DO PROJETO
-https://drive.google.com/file/d/1fb_ETbUKCB5lyTsK_d6jbLiWkMI1qaNb/view?usp=share_link LINK PARA DOWNLOAD DA CALCULADORA
+https://drive.google.com/file/d/1Ieh1SdeiNmfp1KjbYWNVITk0b_soe1M0/view?usp=share_link LINK PARA DOWNLOAD DA CALCULADORA
 
 ### COMO INSTALAR
 - 1° Acesse o link
